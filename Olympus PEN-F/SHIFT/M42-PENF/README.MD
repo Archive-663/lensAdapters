@@ -24,7 +24,7 @@ This is a basic shift adapter for using M42 lenses on Olympus Pen-F cameras.
 - m1.8/m2 drill bit
 - m2.5 drill bit
 - m4.5/No. 25 drill bit
-- m5/3/16 drill bit
+- m5 or 3/16 drill bit
 
 ### Printing help:
 I print with PETG because it's pretty easy to set up with and dial in. If you want to use something else, go for it. I'd stay away from PLA because it's not the best in heat and against solvents. 
