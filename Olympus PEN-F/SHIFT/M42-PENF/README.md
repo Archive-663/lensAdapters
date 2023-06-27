@@ -15,7 +15,7 @@ This is a basic shift adapter for using M42 lenses on Olympus Pen-F cameras.
   - 1x 10-24 x 2" hex head machine screw
   - or 1x 10-32 x 2" hex head machine screw
 - 4x m3 x 3mm set screws (or grub screws)
-- 4x m1.6 x5mm pan head screws
+- 5x m1.6 x 5mm pan head screws
 - 1x m3 tap
 - 1x m1.6 tap
 - 1x m5/10-24/10-32 tap
