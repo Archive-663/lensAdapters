@@ -7,7 +7,7 @@ This is a basic adapter for using M42 lenses on Olympus Pen-F cameras.
 - 4x m3 x 3mm set screws (or grub screws)
 - 4x m1.6 x 5mm pan head screws
 - 1x m3 tap
-- 1x m1.6 tap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 1x m1.6 tap
 
 ### What would be helpful:
 - m1.4 drill bit
@@ -17,7 +17,7 @@ This is a basic adapter for using M42 lenses on Olympus Pen-F cameras.
 ### Printing help:
 I print with PETG because it's pretty easy to set up with and dial in. If you want to use something else, go for it. I'd stay away from PLA because it's not the best in heat and against solvents. 
 
-Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied [print orientation gcode (do not use this to print)](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SHIFT/M42-PENF/ASSETS/printOrientationExample.gcode). Below you'll find screenshots of the orientation. 
+Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied [print orientation gcode (do not use this to print)](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/M42-PENF-DUMB/ASSETS/dumbPenfM42printOrientation.gcode). Below you'll find screenshots of the orientation. 
 
 ![printOrientation001](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/M42-PENF-DUMB/ASSETS/dumbPenfM42printOrientation001.png)
 ![printOrientation002](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/M42-PENF-DUMB/ASSETS/dumbPenfM42printOrientation002.png)
