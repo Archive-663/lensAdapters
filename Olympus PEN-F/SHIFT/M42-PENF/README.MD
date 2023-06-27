@@ -17,4 +17,4 @@ This is a basic shift adapter for using M42 lenses on Olympus Pen-F cameras.
 ### Printing help:
 Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied [print orientation gcode (do not use this to print)](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SHIFT/M42-PENF/ASSETS/printOrientationExample.gcode).
 
-![printOrientation001](Olympus PEN-F/SHIFT/M42-PENF/ASSETS/printOrientation001.png)
+![printOrientation001](/Olympus PEN-F/SHIFT/M42-PENF/ASSETS/printOrientation001.png)
