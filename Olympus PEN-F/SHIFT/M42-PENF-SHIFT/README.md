@@ -39,3 +39,6 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 I suggest drilling holds to their correct tap size before tapping. M3 holes should be drilled out to m2.5 then tapped with the m3 tap. These are the four holes surrounding to top plate. The m1.6 holes should be drilled out to 1.4 then tapped with the m1.6 tap. The Rotator holes should be drilled out with an m2 or m1.8 drill bit.
 
 When assembling the rotating and shift assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the shift and rotate function smoother. 
+
+### Help support Archive 663 with a dontation or monthly sub
+<a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
