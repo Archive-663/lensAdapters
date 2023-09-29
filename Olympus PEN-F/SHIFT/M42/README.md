@@ -1,7 +1,7 @@
 
 ## M42 to PEN-F Shift Adapter
 
-![olympusPENFShiftAdapterforM42Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SHIFT/M42-PENF-SHIFT/ASSETS/GMP01335.jpg)
+![olympusPENFShiftAdapterforM42Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SHIFT/M42/ASSETS/productShift_M43_PENF%20(7).jpg)
 
 ### Features:
 - +/- 7mm of shift
