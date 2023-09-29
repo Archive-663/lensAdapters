@@ -1,6 +1,6 @@
 ## M645 to PEN-F Speedbooster Adapter
 
-![olympusPENFShiftAdapterforM42Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SHIFT/M42/ASSETS/productShift_M43_PENF%20(7).jpg)
+![olympusPENFSpeedboosterAdapterforM645Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SPEEDBOOSTER/Mamiya%20645/ASSETS/productSB_M645_PENF%20(2).jpg
 
 ### Features:
 - 0.71x focal reduction
@@ -23,6 +23,8 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 
 ### Assembly help:
 The speedbooster element needs to be press fit into the housing. You may need to wrap a bit of gaffer's tape around the threads of the element to have it press fit snuggly. 
+
+Install the speedbooster element flipped from it's standard orientation in the original speedbooster. 
 
 Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
