@@ -22,6 +22,7 @@
 - M1.4 drill bit
 - M1.8/M2 drill bit
 - M2.5 drill bit
+- M4.2 drill bit
 - M4.5/No. 25 drill bit
 - M5 or 3/16 drill bit
 
@@ -34,8 +35,8 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 
 ### Assembly help:
 Drill holes to their correct tap size before tapping.
-- M5 requires M4.5 bore followed by an M5 tap
-- 10-24/10-32 requires M5 or 3/16 bore followed by a 10-24/10-32 tap
+- M5 requires M4.2 bore followed by an M5 tap
+- 10-24/10-32 requires M4.5/No. 25 bore followed by a 10-24/10-32 tap
 - M3 requires M2.5 bore followed by an M3 tap.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Rotator part.
