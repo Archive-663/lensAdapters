@@ -1,6 +1,6 @@
 ## M645 to PEN-F Speedbooster Adapter
 
-![olympusPENFSpeedboosterAdapterforM645Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SPEEDBOOSTER/Mamiya%20645/ASSETS/productSB_M645_PENF%20(2).jpg
+![olympusPENFSpeedboosterAdapterforM645Lenses](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SPEEDBOOSTER/Mamiya%20645/ASSETS/productSB_M645_PENF%20(2).jpg)
 
 ### Features:
 - 0.71x focal reduction
