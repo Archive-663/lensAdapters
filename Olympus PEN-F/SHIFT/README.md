@@ -9,6 +9,7 @@ This is a basic shift adapter for using SLR/DSLR lenses on Olympus Pen-F cameras
 - +/- 7mm of shift.
 - 90 degree rotation for both portrait and landscape shift.
 - Available for M42, & Nikon F.
+- Interchangeable base PEN-F bottom shift assembly. Print once and slide on and off either of the top shift assemblies.
 - More mounts coming soon.
 
 ### Help support Archive 663 with a dontation or monthly sub
