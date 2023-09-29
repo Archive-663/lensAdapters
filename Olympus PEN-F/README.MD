@@ -4,9 +4,9 @@
 ![productPhoto001](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/product_PENF%20(1).jpg)
 
 ### In this repository:
-	- [Pen-F Dumb Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/DUMB)
-	- [Pen-F Shift Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/SHIFT)
-	- [Pen-F Speedbooster Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/SPEEDBOOSTER)
+- [Pen-F Dumb Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/DUMB)
+- [Pen-F Shift Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/SHIFT)
+- [Pen-F Speedbooster Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/SPEEDBOOSTER)
 
 ### Story Time:
 I picked up an Olympus PEN-F a while ago to see if there was any chance I could adapt some modern APS-C mirrorless or DLSR lenses to better it's lens selection. The unfortunate answer is that it's mostly "no." While the flange focal distance is pretty short, the mirror actually protrudes too much into the actual lens mount so more often than not the mirror would slap the rear lens element of most adapted mirrorless and even Leica M mount lenses. There is hope for APS-C DSLR lenses. I'm working on adapting a zoom lens and trying to figure out how to make a much more compact circular fish eye lense out of a few Meike lenses.
