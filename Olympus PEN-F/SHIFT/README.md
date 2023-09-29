@@ -7,7 +7,7 @@ This is a basic shift adapter for using M42 lenses on Olympus Pen-F cameras.
 
 ### Features:
 - +/- 7mm of shift
-- 90 degree rotation for both portrait and vertical shift
+- 90 degree rotation for both portrait and landscape shift
 
 ### What you'll need:
 - Either
@@ -42,7 +42,7 @@ Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Rotator part.
 
-When assembling the rotating and shift assemblies use synthetic grease similar to Super Lube PTFE or keycap lube to make the shift and rotate function smoother. It will help with parts longevity as well.
+When assembling the rotating, and shift assemblies use synthetic grease similar to Super Lube PTFE or keycap lube to make the shift and rotate function smoother. It will help with parts longevity as well. Additionally, grease the threads on the machine screw to allow for smoother engagement.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
