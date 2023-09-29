@@ -11,8 +11,7 @@
   - 1x M5 x 50mm hex head machine screw
   - 1x 10-24 x 2" hex head machine screw
   - or 1x 10-32 x 2" hex head machine screw
-- 4x M3 x 3mm set screws (or grub screws)
-- 5x M1.6 x 5mm pan head screws
+- 14x M1.6 x 5mm pan head screws
 - 1x M3 tap
 - 1x M1.6 tap
 - 1x M5/10-24/10-32 tap
@@ -36,7 +35,6 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 Drill holes to their correct tap size before tapping.
 - M5 requires M4.2 bore followed by an M5 tap
 - 10-24/10-32 requires M4.5/No. 25 bore followed by a 10-24/10-32 tap
-- M3 requires M2.5 bore followed by an M3 tap.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Rotator part.
 
