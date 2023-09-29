@@ -22,6 +22,8 @@ Filament recommendation:
 Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied 'printOrientation' .3mf files for suggested print orientation.
 
 ### Assembly help:
+The speedbooster element needs to be press fit into the housing. You may need to wrap a bit of gaffer's tape around the threads of the element to have it press fit snuggly. 
+
 Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Mount Rings part.
