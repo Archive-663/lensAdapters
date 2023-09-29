@@ -12,14 +12,12 @@
   - 1x 10-24 x 2" hex head machine screw
   - or 1x 10-32 x 2" hex head machine screw
 - 14x M1.6 x 5mm pan head screws
-- 1x M3 tap
 - 1x M1.6 tap
 - 1x M5/10-24/10-32 tap
 
 ### What would be helpful:
 - M1.4 drill bit
 - M1.8/M2 drill bit
-- M2.5 drill bit
 - M4.2 drill bit
 - M4.5/No. 25 drill bit
 - M5 or 3/16 drill bit
