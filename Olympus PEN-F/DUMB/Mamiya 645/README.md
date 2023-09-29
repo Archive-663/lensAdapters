@@ -1,18 +1,15 @@
-## M42 to PEN-F Dumb Adapter
+## Mamiya 645 to PEN-F Dumb Adapter
 
 ### Features:
-- Adjustable M42 thread mount to allow for fine tuning lens alignment
+- Simple Lever Lens Lock System.
 
 ### What you'll need:
-- 4x M3 x 3mm grub screws (set screws)
-- 3x M1.6 x 5mm pan head screws
-- 1x M3 tap
+- 9x M1.6 x 5mm pan head screws
 - 1x M1.6 tap
 
 ### What would be helpful:
 - M1.4 drill bit
 - M1.8/M2 drill bit
-- M2.5 drill bit
 
 ### Printing help:
 Filament recommendation:
@@ -25,7 +22,6 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Rotator part.
-- M3 requires M2.5 bore followed by an M3 tap.
 
 To assemble correctly, use indexing dots to orient the parts.
 
