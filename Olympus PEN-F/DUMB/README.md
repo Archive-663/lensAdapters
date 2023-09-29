@@ -1,15 +1,11 @@
+## PEN-F Dumb Lens Adapters
 
-## PEN-F Shift Lens Adapters
+![olympusPENFDumbAdapters](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/dumbAdapter_PENF_crop.jpg)
 
-![olympusPENFShiftAdapters](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/product_PENF%20(1).jpg)
-
-A collection of basic shift adapter for using SLR/DSLR lenses on Olympus Pen-F cameras.
+A collection of basic dumb adapters for using Medium Format and SLR/DSLR lenses on Olympus Pen-F cameras.
 
 ### Features:
-- +/- 7mm of shift.
-- 90 degree rotation for both portrait and landscape shift.
-- Available for M42, & Nikon F.
-- Interchangeable base PEN-F bottom shift assembly. Print once and slide on and off either of the top shift assemblies.
+- Available for Canon EF, M42, Mamiya 645, & Nikon F.
 - More mounts coming soon.
 
 ### Help support Archive 663 with a dontation or monthly sub

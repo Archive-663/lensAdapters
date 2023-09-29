@@ -2,7 +2,7 @@
 
 ![olympusPENFSpeedboosterAdapters](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/SPEEDBOOSTER/Mamiya%20645/ASSETS/productSB_M645_PENF%20(1).jpg)
 
-A collection of experimental shift adapter for using Medium Format lenses on Olympus Pen-F cameras.
+A collection of experimental shift adapters for using Medium Format lenses on Olympus Pen-F cameras.
 
 ### Features:
 - 0.71x focal reduction

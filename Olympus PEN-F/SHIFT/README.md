@@ -3,7 +3,7 @@
 
 ![olympusPENFShiftAdapters](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/product_PENF%20(1).jpg)
 
-A collection of basic shift adapter for using SLR/DSLR lenses on Olympus Pen-F cameras.
+A collection of basic shift adapters for using SLR/DSLR lenses on Olympus Pen-F cameras.
 
 ### Features:
 - +/- 7mm of shift.
