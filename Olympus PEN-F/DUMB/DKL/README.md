@@ -6,7 +6,7 @@
 
 ### What you'll need:
 - 9x M1.6 x 5mm pan head screws (if using PETG)
-  OR
+OR
 - 9x M1.6/1.7 x 5mm self tapping screws (if using ABS or PETG)
 - 1x M1.6 tap
 - 1x M2 x 7mm set screw or pan head screw
