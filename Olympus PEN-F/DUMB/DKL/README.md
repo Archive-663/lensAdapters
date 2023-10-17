@@ -29,6 +29,8 @@ Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on Rotator part.
 
+The aperture is controlled by the M2 x 7mm set screw. If you're using ABS I didn't like how the threads felt using a tap, so I'd suggest just screwing the M2 set screw in without a tap. ABS doesn't hold threads as well as PETG which is why I advise using self tapping screws with ABS. It's just, in the case of, the aperture control is better with a flat bottom screw vs the pointed bottom of the self tapping screws.
+
 To assemble correctly, use indexing dots to orient the parts.
 
 Please print the supplied 'dumbAdapter_DKL_-_PENF_apertureLabel.pdf' found in the ASSETS folder on adhesive backed paper or apply an adhesive to the back. Then apply it to the aperture ring when you are wide open. Matching the aperture mark with the f-stop number your lens is wide open. F/1.9 is as good as F/2. 
