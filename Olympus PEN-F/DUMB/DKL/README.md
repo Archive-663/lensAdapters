@@ -5,7 +5,7 @@
 - Basic F-stop printable label from F/2 to F/22
 
 ### What you'll need:
-- 9x M1.6 x 5mm pan head screws (if using PETG
+- 9x M1.6 x 5mm pan head screws (if using PETG)
   OR
 - 9x M1.6/1.7 x 5mm self tapping screws (if using ABS or PETG)
 - 1x M1.6 tap
