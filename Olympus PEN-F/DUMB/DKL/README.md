@@ -2,6 +2,7 @@
 
 ### Features:
 - Simple Push/Pull Lens Lock System.
+- Basic F-stop printable label from F/2 to F/22
 
 ### What you'll need:
 - 9x M1.6 x 5mm pan head screws (if using PETG
