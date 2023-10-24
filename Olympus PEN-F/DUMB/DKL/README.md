@@ -1,5 +1,7 @@
 ## Deckel DKL to PEN-F Dumb Adapter
 
+![DKL to PENF adapter](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/dumbAdapter_DKL_PENF%20(2).jpg)
+
 ### Features:
 - Simple Push/Pull Lens Lock System.
 - Basic F-stop printable label from F/2 to F/22
