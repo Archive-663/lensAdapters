@@ -37,6 +37,8 @@ To assemble correctly, use indexing dots to orient the parts.
 
 Please print the supplied 'dumbAdapter_DKL_-_PENF_apertureLabel.pdf' found in the ASSETS folder on adhesive backed paper or apply an adhesive to the back. Then apply it to the aperture ring when you are wide open. Matching the aperture mark with the f-stop number your lens is wide open. F/1.9 is as good as F/2. 
 
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble. If using FreeCAD, the naming conventions should carry over and you will be able to see which lens element you need from the various smartphone lenses. (Verified in FreeCAD 0.18) If using something like Solid Edge open the file as an assembly to retain the names of the parts.
+
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
