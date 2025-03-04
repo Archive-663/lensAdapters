@@ -1,15 +1,16 @@
-## Canon EF to PEN-F Dumb Adapter
+## Canon FD to PEN-F Dumb Adapter
 
 ### Features:
 - Simple Lever Lens Pin Lock System.
 
 ### What you'll need:
-- 8x M1.6 x 5mm pan head screws
+- 3x M1.6 x 5mm pan head screws
 - 1x M1.6 tap
 
 ### What would be helpful:
 - M1.4 drill bit
 - M1.8/M2 drill bit
+
 ### Printing help:
 Filament recommendation:
 - ABS
