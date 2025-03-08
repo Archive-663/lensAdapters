@@ -5,6 +5,8 @@
 ### Features:
 - Simple aperture pin lock.
 
+![productPhoto002](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/Canon%20FD/ASSETS/PRODUCT/aperture.gif)
+
 ### What you'll need:
 - 3x M1.6 x 5mm pan head or self-tapping screws
 - 1x M1.6 tap
