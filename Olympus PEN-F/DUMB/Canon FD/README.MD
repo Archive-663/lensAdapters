@@ -1,5 +1,7 @@
 ## Canon FD to PEN-F Dumb Adapter
 
+![productPhoto001](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/Canon%20FD/ASSETS/PRODUCT/olympusPENF_FD.jpg)
+
 ### Features:
 - Simple aperture pin lock.
 
