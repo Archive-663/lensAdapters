@@ -4,7 +4,7 @@
 - Simple aperture pin lock.
 
 ### What you'll need:
-- 3x M1.6 x 5mm pan head screws
+- 3x M1.6 x 5mm pan head or self-tapping screws
 - 1x M1.6 tap
 
 ### What would be helpful:
