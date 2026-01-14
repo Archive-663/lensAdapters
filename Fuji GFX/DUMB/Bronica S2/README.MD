@@ -26,7 +26,7 @@ Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore on flanges.
 
-To assemble correctly, use indexing dots to orient the parts.
+To assemble correctly, use indexing dots to orient the parts. For the Aperture Lever Spring, the indexing dot should point up if looking straight through the dumb body.
 
 Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble. If using FreeCAD, the naming conventions should carry over and you will be able to see which lens element you need from the various smartphone lenses. (Verified in FreeCAD 0.18) If using something like Solid Edge open the file as an assembly to retain the names of the parts.
 
