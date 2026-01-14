@@ -1,6 +1,6 @@
 ## Bronica S2 to Fuji GFX Dumb Adapter
 
-![productPhoto001](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/DUMB/Canon%20FD/ASSETS/PRODUCT/olympusPENF_FD.jpg)
+![productPhoto001](https://github.com/Archive-663/lensAdapters/blob/main/Fuji%20GFX/ASSETS/PHOTO/PRODUCT/1%20(5).jpg)
 
 ### Features:
 - All-in-one Coil Spring Aperture Lever
