@@ -1,16 +1,14 @@
-## PEN-F Dumb Lens Adapters
+## GFX Dumb Lens Adapters
 
-![olympusPENFDumbAdapters](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/dumbAdapter_PENF_crop.jpg)
-
-A collection of basic dumb adapters for using Medium Format and SLR/DSLR lenses on Olympus Pen-F cameras.
+A collection of basic dumb adapters for using non-Fuji GFX lenses on Fuji GFX cameras.
 
 ### Features:
-- Available for Canon E, Deckel DKL, M42, Mamiya 645, & Nikon F.
+- Available for Bronica S2.
 - More mounts coming soon.
 
 ### To Print:
-- Download the files in the mountDumbBase folder for the PEN-F Mount
-- Download the files for the camera mount you want to adapt. They all use the same PEN-F mount so keeping them separate makes it easier to update when I need to. 
+- Download the files in the mountDumbBase folder for the GFX Mount
+- Download the files for the camera mount you want to adapt. They all use the same GFX mount so keeping them separate makes it easier to update when I need to. 
 
 ### Help support Archive 663 with a dontation or monthly sub
 
