@@ -1,9 +1,9 @@
 ## FujiFilm GFX Lens Adapters
 
-![GFXlensAdapter](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(4).jpg)
+![GFXlensAdapter](https://github.com/Archive-663/lensAdapters/blob/main/Fuji%20GFX/ASSETS/PHOTO/PRODUCT/1%20(5).jpg)
 
 ### In this repository:
-- [GFX Dumb Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Olympus%20PEN-F/DUMB)
+- [GFX Dumb Lens Adapters](https://github.com/Archive-663/lensAdapters/tree/main/Fuji%20GFX/DUMB)
 
 ### Story Time:
 The GFX has always been my grail camera. While yes, this is old and some what cumbersom, the images coming from the sensor are amazing. The adapters for the GFX are expensive, and unsurprisingly, I'm a cheap ass. So I've spent some time making a few dumb adapters for the GFX. I'm in the process of designing a shift adapter for certain mounts as well, but they will come later.
